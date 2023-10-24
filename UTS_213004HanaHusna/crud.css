@@ -1,0 +1,44 @@
+body {
+    margin-top: 150px;
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 1px;
+    background-color: #e0d9d979;
+}
+
+form {
+    width: 55%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 23%;
+    margin-right: 20%;
+}
+
+button {
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+    padding: 8px 9px;
+    margin-top: 14px;
+    margin-right: 12px;
+    border: none;
+    cursor: pointer;
+    width: 130px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+input[type=text] {
+    width: 35%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: cadetblue;
+}
